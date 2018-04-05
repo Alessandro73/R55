@@ -2,6 +2,6 @@
 
 int main(int argc, char *argv[]) {
 
-	printf("Numero parametri ricevuti: %d", argc);
+	printf("Numero parametri ricevuti: %d\n", argc);
 
 }
