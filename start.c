@@ -8,6 +8,8 @@ int main(int argc, char *argv[]) {
 
 	ptr_n_args = &argc;
 
+	puts("R55-Versione-001");
+
 	printf("Numero parametri ricevuti: %d\n", *ptr_n_args);
 
 	while (*argv!='\0') {
