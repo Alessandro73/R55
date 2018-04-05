@@ -2,8 +2,6 @@
 
 int main(int argc, char *argv[]) {
 	
-	FILE *fd;
-
 	char cnt_n_args = 0;
 
 	int *ptr_n_args;
